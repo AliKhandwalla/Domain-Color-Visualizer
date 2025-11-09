@@ -14,11 +14,11 @@ This is a project for visualizing graphs on the imaginary plane, where you can s
   ```
   2. Install the dependencies
   ```python
-  pip isntall -r requirements.txt
+  pip install -r requirements.txt
   ```
   3. And finally, run the python file and enter any function
   ```python
-  python domain-color-visualizer.py
+  python domain_color_visualizer.py
   ```
 4. See your graph on the real-complex plane!
 
