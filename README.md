@@ -6,7 +6,7 @@ This is a project for visualizing graphs on the imaginary plane, where you can s
 - Supports color maps
 - Supports most functions
 
-  ## Installation
+## Installation
   1. Clone the repository
   ```bash
   git clone https://github.com/AliKhandwalla/domain-color-visualizer.git
@@ -20,7 +20,7 @@ This is a project for visualizing graphs on the imaginary plane, where you can s
   ```python
   python domain-color-visualizer.py
   ```
-  4. See your graph on the real-complex plane!
+4. See your graph on the real-complex plane!
 
-  # License
-  This project is licensed under the [MIT License](LICENSE).
+# License
+This project is licensed under the [MIT License](LICENSE).
